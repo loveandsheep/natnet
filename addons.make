@@ -1,0 +1,9 @@
+ofxAssimpModelLoader
+ofxOpenCv
+ofxOsc
+ofxXmlSettings
+ofxCv
+ofxDelaunay
+ofxNatNet
+ofxSyphon
+ofxUI
